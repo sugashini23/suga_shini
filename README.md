@@ -49,7 +49,7 @@
 <p>
   <img height="45" src="https://img.icons8.com/color/48/test-tube.png"/> 
   <img height="45" src="https://img.icons8.com/color/48/selenium-test-automation.png"/>
- <img height="45" src="https://www.svgrepo.com/download/354398/testng.png" alt="TestNG icon"/>
+ <img height="45" src="https://img.icons8.com/color/96/testng.png"/>
 
 
 
