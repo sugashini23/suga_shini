@@ -49,7 +49,9 @@
 <p>
   <img height="45" src="https://img.icons8.com/color/48/test-tube.png"/> 
   <img height="45" src="https://img.icons8.com/color/48/selenium-test-automation.png"/>
-  <img height="45" src="https://img.icons8.com/color/48/testng.png"/>
+  <img src="https://img.icons8.com/color/48/testng.png" height="45"/>
+
+
 </p>
 
 ---
@@ -60,11 +62,6 @@
 - Google Colab experiments  
 
 ---
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sugashini23&theme=dark&show_icons=true"/>
-</p>
 
 ---
 
