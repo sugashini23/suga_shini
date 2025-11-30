@@ -49,7 +49,8 @@
 <p>
   <img height="45" src="https://img.icons8.com/color/48/test-tube.png"/> 
   <img height="45" src="https://img.icons8.com/color/48/selenium-test-automation.png"/>
-  <img src="https://img.icons8.com/color/48/testng.png" height="45"/>
+ <img src="https://img.icons8.com/color/48/testng.png" height="45" width="45"/>
+
 
 
 </p>
